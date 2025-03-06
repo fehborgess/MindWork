@@ -1,0 +1,4 @@
+bash
+git clone https://github.com/fehborgess/MindWork.git
+cd Mind_Work
+git checkout -b feature/Mindwork+Maria_Fernanda
